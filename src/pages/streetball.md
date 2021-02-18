@@ -1,5 +1,5 @@
 ---
-title: Чемпионат России *
+title: Чемпионат России  3*3
 subtitle: lorem-ipsum
 seo:
   title: ''
