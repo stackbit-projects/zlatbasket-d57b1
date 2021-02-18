@@ -1,5 +1,5 @@
 ---
-title: Чемпионат России  3*3
+title: Чемпионат России  3x3
 subtitle: lorem-ipsum
 seo:
   title: ''
