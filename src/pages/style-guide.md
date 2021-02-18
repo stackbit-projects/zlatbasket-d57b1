@@ -1,5 +1,5 @@
 ---
-title: 'Чемпионат города по баскетболуЗлатоуста '
+title: Чемпионат города по баскетболу Златоуста
 subtitle: >-
   The style guide provides you with a blueprint of default post and page styles.
   The style guide is also a great reference for suggested typographic treatment
